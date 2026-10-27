@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Precios Agro Ecuador</title>
+<meta name="description" content="Precios mayoristas de productos agrícolas en los mercados del Ecuador, actualizados a diario con datos del SIPA - MAG.">
+<meta name="theme-color" content="#2a78d6">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7;
+  --surface: #fcfcfb;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --ring: rgba(11,11,11,0.10);
+  --wash: rgba(11,11,11,0.04);
+  --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,0.10); --wash: rgba(255,255,255,0.05);
+    --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+  --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,0.10); --wash: rgba(255,255,255,0.05);
+  --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--page); color: var(--ink);
+  font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.wrap { max-width: 1080px; margin: 0 auto; padding: 20px 16px 48px; }
+header h1 { font-size: 22px; margin: 0 0 2px; letter-spacing: -0.01em; }
+header p { margin: 0; color: var(--ink-2); font-size: 13px; }
+.filters {
+  position: sticky; top: 0; z-index: 5; background: var(--page);
+  display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: end;
+  padding: 14px 0 12px; margin-bottom: 4px; border-bottom: 1px solid var(--grid);
+}
+.filters label { display: grid; gap: 4px; font-size: 12px; color: var(--ink-2); flex: 1 1 260px; }
+select {
+  font: inherit; color: var(--ink); background: var(--surface);
+  border: 1px solid var(--axis); border-radius: 8px; padding: 9px 10px; width: 100%;
+}
+.seg { display: inline-flex; border: 1px solid var(--axis); border-radius: 8px; overflow: hidden; background: var(--surface); }
+.seg button {
+  font: inherit; font-size: 13px; color: var(--ink-2); background: none; border: 0;
+  padding: 9px 12px; cursor: pointer; min-width: 44px;
+}
+.seg button + button { border-left: 1px solid var(--axis); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: #fff; font-weight: 600; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 16px 0; }
+.card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 14px 16px; }
+.tile .k { font-size: 12px; color: var(--ink-2); }
+.tile .v { font-size: 30px; font-weight: 650; letter-spacing: -0.02em; margin: 2px 0; }
+.tile .v small { font-size: 14px; font-weight: 500; color: var(--ink-2); }
+.tile .d { font-size: 12px; color: var(--muted); }
+h2 { font-size: 16px; margin: 0 0 2px; }
+.sub { font-size: 12px; color: var(--muted); margin: 0 0 12px; }
+section.card { margin-bottom: 16px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; color: var(--ink-2); margin-bottom: 4px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 14px; height: 3px; border-radius: 2px; display: inline-block; }
+.legend button { font: inherit; font-size: 12px; color: var(--muted); background: none; border: 0; cursor: pointer; padding: 0 2px; }
+#chart { width: 100%; height: 340px; }
+.bars { display: grid; gap: 2px; }
+.bar {
+  display: grid; grid-template-columns: minmax(120px, 34%) 1fr auto; gap: 10px; align-items: center;
+  padding: 6px 8px; border-radius: 8px; cursor: pointer; border: 0; background: none;
+  font: inherit; color: inherit; text-align: left; width: 100%;
+}
+.bar:hover, .bar:focus-visible { background: var(--wash); outline: none; }
+.bar .n { font-size: 13px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar .n i { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; }
+.bar .t { height: 10px; background: var(--grid); border-radius: 0 4px 4px 0; position: relative; }
+.bar .t b { position: absolute; inset: 0 auto 0 0; background: var(--s1); border-radius: 0 4px 4px 0; }
+.bar .p { font-size: 13px; font-variant-numeric: tabular-nums; text-align: right; min-width: 92px; }
+.bar .p small { display: block; color: var(--muted); font-size: 11px; }
+.bar.old { opacity: .55; }
+.hint { font-size: 12px; color: var(--muted); margin-top: 8px; }
+details summary { cursor: pointer; font-size: 13px; color: var(--ink-2); margin-top: 10px; }
+.tablewrap { overflow-x: auto; margin-top: 8px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { padding: 6px 8px; border-bottom: 1px solid var(--grid); text-align: right; white-space: nowrap; }
+th:first-child, td:first-child { text-align: left; }
+th { color: var(--ink-2); font-weight: 600; position: sticky; top: 0; background: var(--surface); }
+footer { font-size: 12px; color: var(--muted); margin-top: 24px; }
+footer a { color: var(--ink-2); }
+.loading { opacity: .5; transition: opacity .15s; }
+@media (max-width: 560px) {
+  .filters { position: static; }
+  .tile .v { font-size: 26px; }
+  #chart { height: 300px; }
+  .bar { grid-template-columns: minmax(100px, 40%) 1fr auto; gap: 8px; }
+  .bar .p { min-width: 78px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Precios Agro Ecuador</h1>
+    <p>Precios mayoristas por mercado · Fuente: SIPA – Ministerio de Agricultura y Ganadería · <span id="corte">cargando…</span></p>
+  </header>
+
+  <div class="filters">
+    <label>Producto
+      <select id="producto"></select>
+    </label>
+    <div>
+      <div style="font-size:12px;color:var(--ink-2);margin-bottom:4px">Período</div>
+      <div class="seg" id="rango" role="group" aria-label="Período">
+        <button data-m="3">3M</button><button data-m="6">6M</button><button data-m="12" aria-pressed="true">1A</button><button data-m="24">2A</button><button data-m="0">Todo</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="main">
+    <div class="tiles">
+      <div class="card tile"><div class="k">Promedio nacional · última semana</div><div class="v" id="tProm">–</div><div class="d" id="tPromD"></div></div>
+      <div class="card tile"><div class="k">Mejor precio</div><div class="v" id="tMax">–</div><div class="d" id="tMaxD"></div></div>
+      <div class="card tile"><div class="k">Precio más bajo</div><div class="v" id="tMin">–</div><div class="d" id="tMinD"></div></div>
+    </div>
+
+    <section class="card">
+      <h2>Evolución del precio</h2>
+      <p class="sub" id="chartSub">Promedio semanal en USD por kilo</p>
+      <div class="legend" id="legend"></div>
+      <div id="chart" role="img" aria-label="Gráfico de evolución del precio"></div>
+      <details>
+        <summary>Ver tabla de promedios mensuales</summary>
+        <div class="tablewrap" id="tabla"></div>
+      </details>
+    </section>
+
+    <section class="card">
+      <h2>Último precio por mercado</h2>
+      <p class="sub">USD por kilo en la última toma de cada mercado. Toca un mercado para compararlo en el gráfico (hasta 3).</p>
+      <div class="bars" id="bars"></div>
+      <p class="hint" id="presentacion"></p>
+    </section>
+  </div>
+
+  <footer>
+    Datos: <a href="http://sinagap.mag.gob.ec/sina/paginasCGSIN/Rep_Pre_Prod_X_MercCGSIN.aspx" target="_blank" rel="noopener">SIPA – MAG Ecuador</a>.
+    Cada mercado tiene su propia frecuencia de toma de precios. Se excluyen valores atípicos evidentes (posibles errores de digitación).
+    Prototipo con fines informativos.
+  </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.0/echarts.min.js"></script>
+<script>
+const $ = s => document.querySelector(s);
+const fmt = v => v == null ? "–" : "$" + v.toFixed(2);
+const fmtFecha = iso => { const [y, m, d] = iso.split("-"); return `${d}/${m}/${y}`; };
+const MES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+const DIAS_VIEJO = 45;      // un mercado sin toma en este lapso se muestra atenuado
+const MAX_COMPARAR = 3;
+
+let catalogo, datos, meses = 12, chart;
+// Color sigue a la entidad: cada mercado comparado conserva su color (slots 2–4).
+let comparar = new Map();
+
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const diasEntre = (a, b) => Math.round((new Date(b) - new Date(a)) / 864e5);
+
+function lunes(iso) {
+  const d = new Date(iso + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() - ((d.getUTCDay() + 6) % 7));
+  return d.toISOString().slice(0, 10);
+}
+
+// Promedio semanal de un mercado: {semana: precio}
+function semanal(serie) {
+  const acc = {};
+  for (const [f, p] of serie) { const w = lunes(f); (acc[w] ||= []).push(p); }
+  const out = {};
+  for (const w in acc) out[w] = acc[w].reduce((a, b) => a + b, 0) / acc[w].length;
+  return out;
+}
+
+function prepararProducto(d) {
+  d.semanal = {};
+  for (const m in d.mercados) d.semanal[m] = semanal(d.mercados[m]);
+  // Promedio nacional = media de los promedios semanales de los mercados que reportan esa semana
+  const acc = {};
+  for (const m in d.semanal) for (const w in d.semanal[m]) (acc[w] ||= []).push(d.semanal[m][w]);
+  // Semanas con pocos mercados (p. ej. la semana en curso) distorsionan el promedio:
+  // se exige al menos la mitad de los mercados que reportan en una semana típica reciente.
+  const conteos = Object.keys(acc).sort().slice(-12).map(w => acc[w].length).sort((a, b) => a - b);
+  const minimo = Math.max(2, Math.ceil(conteos[Math.floor(conteos.length / 2)] / 2));
+  d.nacional = Object.keys(acc).sort().filter(w => acc[w].length >= minimo)
+    .map(w => [w, acc[w].reduce((a, b) => a + b, 0) / acc[w].length]);
+  d.ultimo = Object.entries(d.mercados).map(([m, s]) => ({ mercado: m, fecha: s[s.length - 1][0], precio: s[s.length - 1][1] }));
+}
+
+function desde() {
+  if (!meses) return "0000";
+  const d = new Date(catalogo.ultima_fecha + "T00:00:00Z");
+  d.setUTCMonth(d.getUTCMonth() - meses);
+  return d.toISOString().slice(0, 10);
+}
+
+function series() {
+  const out = [{ nombre: "Promedio nacional", color: "--s1", puntos: datos.nacional }];
+  for (const [m, slot] of comparar) {
+    out.push({ nombre: m, color: slot, puntos: Object.entries(datos.semanal[m] || {}).sort() });
+  }
+  return out;
+}
+
+function pintarTiles() {
+  const corte = catalogo.ultima_fecha;
+  const recientes = datos.ultimo.filter(u => diasEntre(u.fecha, corte) <= DIAS_VIEJO);
+  const n = datos.nacional;
+  const ult = n[n.length - 1];
+  $("#tProm").innerHTML = ult ? `${fmt(ult[1])}<small> /kg</small>` : "–";
+  if (ult) {
+    const ref = n.filter(([w]) => diasEntre(w, ult[0]) >= 28).pop();
+    let txt = `Semana del ${fmtFecha(ult[0])}`;
+    if (ref) {
+      const pct = (ult[1] / ref[1] - 1) * 100;
+      const flecha = Math.abs(pct) < 0.5 ? "→ sin cambio" : pct > 0 ? `▲ subió ${pct.toFixed(1)}%` : `▼ bajó ${Math.abs(pct).toFixed(1)}%`;
+      txt += ` · ${flecha} vs. hace 4 semanas`;
+    }
+    $("#tPromD").textContent = txt;
+  }
+  const orden = [...recientes].sort((a, b) => b.precio - a.precio);
+  const hi = orden[0], lo = orden[orden.length - 1];
+  $("#tMax").innerHTML = hi ? `${fmt(hi.precio)}<small> /kg</small>` : "–";
+  $("#tMaxD").textContent = hi ? `${hi.mercado} · ${fmtFecha(hi.fecha)}` : "Sin tomas recientes";
+  $("#tMin").innerHTML = lo ? `${fmt(lo.precio)}<small> /kg</small>` : "–";
+  $("#tMinD").textContent = lo ? `${lo.mercado} · ${fmtFecha(lo.fecha)}` : "Sin tomas recientes";
+}
+
+function pintarBarras() {
+  const corte = catalogo.ultima_fecha;
+  const filas = [...datos.ultimo].sort((a, b) => {
+    const va = diasEntre(a.fecha, corte) > DIAS_VIEJO, vb = diasEntre(b.fecha, corte) > DIAS_VIEJO;
+    return va - vb || b.precio - a.precio;
+  });
+  const max = Math.max(...filas.map(f => f.precio));
+  $("#bars").innerHTML = filas.map(f => {
+    const viejo = diasEntre(f.fecha, corte) > DIAS_VIEJO;
+    const slot = comparar.get(f.mercado);
+    const punto = slot ? `<i style="background:var(${slot})"></i>` : "";
+    return `<button class="bar${viejo ? " old" : ""}" data-m="${f.mercado}" aria-pressed="${!!slot}"
+      title="${viejo ? "Sin tomas en los últimos " + DIAS_VIEJO + " días" : ""}">
+      <span class="n">${punto}${f.mercado}</span>
+      <span class="t"><b style="width:${(f.precio / max * 100).toFixed(1)}%"></b></span>
+      <span class="p">${fmt(f.precio)}<small>${fmtFecha(f.fecha)}${viejo ? " · antiguo" : ""}</small></span>
+    </button>`;
+  }).join("");
+  $("#presentacion").textContent = datos.presentacion
+    ? `Presentación habitual en mercado: ${datos.presentacion.replace(/\s+/g, " ")}. Los precios se expresan por kilo para comparar.`
+    : "";
+}
+
+function pintarGrafico() {
+  const ini = desde();
+  const ss = series().map(s => ({ ...s, puntos: s.puntos.filter(([w]) => w >= ini) }));
+  const ink2 = css("--ink-2"), muted = css("--muted"), grid = css("--grid"), axis = css("--axis"), surf = css("--surface");
+  const varios = ss.length > 1;
+  $("#legend").innerHTML = ss.map((s, i) => `<span><i style="background:var(${s.color})"></i>${s.nombre}${
+    i ? ` <button data-quitar="${s.nombre}" aria-label="Quitar ${s.nombre}">✕</button>` : ""}</span>`).join("");
+  chart.setOption({
+    animation: false,
+    grid: { left: 44, right: 50, top: 16, bottom: 28 },
+    tooltip: {
+      trigger: "axis", backgroundColor: surf, borderColor: axis, textStyle: { color: css("--ink"), fontSize: 12 },
+      axisPointer: { type: "line", lineStyle: { color: axis } },
+      formatter: ps => {
+        const d = new Date(ps[0].value[0]);
+        let h = `<div style="color:${ink2};margin-bottom:4px">Semana del ${d.getUTCDate()} ${MES[d.getUTCMonth()]} ${d.getUTCFullYear()}</div>`;
+        for (const p of ps) h += `<div style="display:flex;gap:8px;align-items:center;justify-content:space-between">
+          <span>${p.marker}${p.seriesName}</span><b style="font-variant-numeric:tabular-nums">${fmt(p.value[1])}</b></div>`;
+        return h;
+      }
+    },
+    xAxis: {
+      type: "time", axisLine: { lineStyle: { color: axis } }, axisTick: { show: false },
+      axisLabel: { color: muted, fontSize: 11, hideOverlap: true,
+        formatter: v => { const d = new Date(v); return `${MES[d.getUTCMonth()]} ${String(d.getUTCFullYear()).slice(2)}`; } },
+      splitLine: { show: false }
+    },
+    yAxis: {
+      type: "value", scale: true, axisLine: { show: false }, axisTick: { show: false },
+      axisLabel: { color: muted, fontSize: 11, formatter: v => "$" + v.toFixed(2) },
+      splitLine: { lineStyle: { color: grid, width: 1 } }
+    },
+    series: ss.map((s, i) => ({
+      name: s.nombre, type: "line", data: s.puntos.map(([w, p]) => [w, +p.toFixed(3)]),
+      showSymbol: false, symbolSize: 8, connectNulls: false, smooth: false,
+      lineStyle: { width: 2, color: css(s.color) }, itemStyle: { color: css(s.color), borderColor: surf, borderWidth: 2 },
+      emphasis: { focus: "series" }, z: i === 0 ? 3 : 2,
+      endLabel: { show: !varios || i === 0, color: ink2, fontSize: 11, formatter: p => fmt(p.value[1]) }
+    }))
+  }, true);
+  pintarTabla(ss);
+}
+
+function pintarTabla(ss) {
+  const acc = {};
+  ss.forEach((s, i) => { for (const [w, p] of s.puntos) { const k = w.slice(0, 7); ((acc[k] ||= {})[i] ||= []).push(p); } });
+  const filas = Object.keys(acc).sort().reverse();
+  $("#tabla").innerHTML = `<table><thead><tr><th>Mes</th>${ss.map(s => `<th>${s.nombre}</th>`).join("")}</tr></thead><tbody>${
+    filas.map(k => `<tr><td>${MES[+k.slice(5) - 1]} ${k.slice(0, 4)}</td>${ss.map((_, i) => {
+      const v = acc[k][i]; return `<td>${v ? fmt(v.reduce((a, b) => a + b, 0) / v.length) : "–"}</td>`;
+    }).join("")}</tr>`).join("")}</tbody></table>`;
+}
+
+function toggleMercado(m) {
+  if (comparar.has(m)) comparar.delete(m);
+  else {
+    if (comparar.size >= MAX_COMPARAR) comparar.delete(comparar.keys().next().value);
+    const usados = new Set(comparar.values());
+    comparar.set(m, ["--s2", "--s3", "--s4"].find(s => !usados.has(s)));
+  }
+  pintarBarras(); pintarGrafico();
+}
+
+async function cargarProducto(id) {
+  $("#main").classList.add("loading");
+  const r = await fetch(`data/p/${id}.json`);
+  datos = await r.json();
+  prepararProducto(datos);
+  comparar = new Map([...comparar].filter(([m]) => datos.mercados[m]));
+  history.replaceState(null, "", "#p=" + id);
+  $("#chartSub").textContent = `${datos.nombre} · promedio semanal en USD por kilo`;
+  pintarTiles(); pintarBarras(); pintarGrafico();
+  $("#main").classList.remove("loading");
+}
+
+async function iniciar() {
+  catalogo = await (await fetch("data/catalogo.json")).json();
+  $("#corte").textContent = `datos hasta el ${fmtFecha(catalogo.ultima_fecha)}`;
+  const grupos = {};
+  for (const p of catalogo.productos) (grupos[p.categoria] ||= []).push(p);
+  $("#producto").innerHTML = Object.entries(grupos).map(([c, ps]) =>
+    `<optgroup label="${c}">${ps.map(p => `<option value="${p.id}">${p.nombre}</option>`).join("")}</optgroup>`).join("");
+  const hash = new URLSearchParams(location.hash.slice(1)).get("p");
+  const inicial = catalogo.productos.some(p => p.id === hash) ? hash : "176";
+  $("#producto").value = inicial;
+
+  chart = echarts.init($("#chart"), null, { renderer: "svg" });
+  new ResizeObserver(() => chart.resize()).observe($("#chart"));
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => datos && pintarGrafico());
+
+  $("#producto").addEventListener("change", e => cargarProducto(e.target.value));
+  $("#rango").addEventListener("click", e => {
+    const b = e.target.closest("button"); if (!b) return;
+    meses = +b.dataset.m;
+    for (const x of $("#rango").children) x.setAttribute("aria-pressed", x === b);
+    pintarGrafico();
+  });
+  $("#bars").addEventListener("click", e => { const b = e.target.closest(".bar"); if (b) toggleMercado(b.dataset.m); });
+  $("#legend").addEventListener("click", e => { const b = e.target.closest("[data-quitar]"); if (b) toggleMercado(b.dataset.quitar); });
+
+  await cargarProducto(inicial);
+}
+
+iniciar().catch(err => {
+  $("#main").innerHTML = `<div class="card">No se pudieron cargar los datos. Intenta de nuevo más tarde.</div>`;
+  console.error(err);
+});
+
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>

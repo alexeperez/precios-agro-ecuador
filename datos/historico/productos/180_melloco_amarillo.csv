@@ -1,0 +1,440 @@
+﻿fecha,categoria,producto_id,producto,mercado,precio_kg,precio_presentacion,presentacion,unidad
+2021-01-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,22.00,"Saco 110,00 Libra",kg
+2021-01-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,20.00,"Saco 100,00 Libra",kg
+2021-01-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.46,23.00,"Saco 110,00 Libra",kg
+2021-01-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,20.00,"Saco 100,00 Libra",kg
+2021-01-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,22.00,"Saco 110,00 Libra",kg
+2021-01-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.52,23.67,"Saco 100,00 Libra",kg
+2021-01-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.54,27.33,"Saco 110,00 Libra",kg
+2021-02-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.53,24.33,"Saco 100,00 Libra",kg
+2021-02-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.56,28.33,"Saco 110,00 Libra",kg
+2021-02-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.77,38.67,"Saco 110,00 Libra",kg
+2021-02-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.58,29.33,"Saco 110,00 Libra",kg
+2021-02-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.48,24.33,"Saco 110,00 Libra",kg
+2021-03-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.54,27.33,"Saco 110,00 Libra",kg
+2021-03-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.58,29.33,"Saco 110,00 Libra",kg
+2021-03-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.55,25.33,"Saco 100,00 Libra",kg
+2021-03-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.61,30.67,"Saco 110,00 Libra",kg
+2021-03-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,27.00,"Saco 100,00 Libra",kg
+2021-03-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.64,32.00,"Saco 110,00 Libra",kg
+2021-04-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,27.00,"Saco 100,00 Libra",kg
+2021-04-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.60,30.33,"Saco 110,00 Libra",kg
+2021-04-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.58,26.67,"Saco 100,00 Libra",kg
+2021-04-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,30.00,"Saco 110,00 Libra",kg
+2021-04-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.72,36.00,"Saco 110,00 Libra",kg
+2021-04-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.64,32.33,"Saco 110,00 Libra",kg
+2021-04-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.64,32.00,"Saco 110,00 Libra",kg
+2021-05-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.64,29.33,"Saco 100,00 Libra",kg
+2021-05-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2021-05-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.61,28.00,"Saco 100,00 Libra",kg
+2021-05-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.62,31.33,"Saco 110,00 Libra",kg
+2021-05-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.61,30.67,"Saco 110,00 Libra",kg
+2021-05-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.74,37.33,"Saco 110,00 Libra",kg
+2021-06-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.64,29.33,"Saco 100,00 Libra",kg
+2021-06-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.66,33.33,"Saco 110,00 Libra",kg
+2021-06-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.66,30.00,"Saco 100,00 Libra",kg
+2021-06-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2021-06-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.66,30.00,"Saco 100,00 Libra",kg
+2021-06-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2021-06-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.67,30.67,"Saco 100,00 Libra",kg
+2021-06-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.33,"Saco 110,00 Libra",kg
+2021-07-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.55,25.00,"Saco 100,00 Libra",kg
+2021-07-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,30.00,"Saco 110,00 Libra",kg
+2021-07-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.55,25.33,"Saco 100,00 Libra",kg
+2021-07-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.61,30.67,"Saco 110,00 Libra",kg
+2021-07-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.55,25.33,"Saco 100,00 Libra",kg
+2021-07-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.62,31.00,"Saco 110,00 Libra",kg
+2021-07-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.65,32.67,"Saco 110,00 Libra",kg
+2021-07-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.67,30.67,"Saco 100,00 Libra",kg
+2021-07-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.77,38.67,"Saco 110,00 Libra",kg
+2021-08-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2021-08-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.58,29.33,"Saco 110,00 Libra",kg
+2021-08-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.67,33.67,"Saco 110,00 Libra",kg
+2021-08-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2021-09-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.72,36.00,"Saco 110,00 Libra",kg
+2021-09-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.61,30.67,"Saco 110,00 Libra",kg
+2021-09-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.78,39.33,"Saco 110,00 Libra",kg
+2021-09-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.61,30.67,"Saco 110,00 Libra",kg
+2021-09-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.75,37.67,"Saco 110,00 Libra",kg
+2021-10-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2021-10-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.63,28.67,"Saco 100,00 Libra",kg
+2021-10-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.83,41.67,"Saco 110,00 Libra",kg
+2021-10-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.68,31.00,"Saco 100,00 Libra",kg
+2021-10-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.81,40.67,"Saco 110,00 Libra",kg
+2021-10-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.83,41.67,"Saco 110,00 Libra",kg
+2021-11-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.78,39.33,"Saco 110,00 Libra",kg
+2021-11-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.57,26.00,"Saco 100,00 Libra",kg
+2021-11-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.73,36.67,"Saco 110,00 Libra",kg
+2021-11-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.71,35.67,"Saco 110,00 Libra",kg
+2021-11-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.66,30.00,"Saco 100,00 Libra",kg
+2021-11-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.76,38.33,"Saco 110,00 Libra",kg
+2021-12-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.61,28.00,"Saco 100,00 Libra",kg
+2021-12-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.66,33.00,"Saco 110,00 Libra",kg
+2021-12-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.60,27.33,"Saco 100,00 Libra",kg
+2021-12-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.76,38.00,"Saco 110,00 Libra",kg
+2021-12-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.81,40.67,"Saco 110,00 Libra",kg
+2021-12-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2021-12-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.82,41.33,"Saco 110,00 Libra",kg
+2022-01-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.76,38.33,"Saco 110,00 Libra",kg
+2022-01-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.84,42.33,"Saco 110,00 Libra",kg
+2022-01-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2022-02-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.75,37.67,"Saco 110,00 Libra",kg
+2022-02-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2022-02-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.46,23.00,"Saco 110,00 Libra",kg
+2022-03-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.50,25.00,"Saco 110,00 Libra",kg
+2022-03-31,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.54,27.33,"Saco 110,00 Libra",kg
+2022-04-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.57,28.67,"Saco 110,00 Libra",kg
+2022-04-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.66,30.00,"Saco 100,00 Libra",kg
+2022-04-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.83,41.67,"Saco 110,00 Libra",kg
+2022-04-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2022-04-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2022-05-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2022-05-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,30.00,"Saco 110,00 Libra",kg
+2022-05-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2022-06-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.83,41.67,"Saco 110,00 Libra",kg
+2022-06-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.82,41.33,"Saco 110,00 Libra",kg
+2022-07-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2022-07-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2022-08-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.76,38.33,"Saco 110,00 Libra",kg
+2022-08-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.86,43.33,"Saco 110,00 Libra",kg
+2022-08-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.76,38.33,"Saco 110,00 Libra",kg
+2022-08-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.71,35.67,"Saco 110,00 Libra",kg
+2022-09-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.63,28.67,"Saco 100,00 Libra",kg
+2022-09-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.78,39.33,"Saco 110,00 Libra",kg
+2022-09-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.83,41.67,"Saco 110,00 Libra",kg
+2022-09-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.86,43.00,"Saco 110,00 Libra",kg
+2022-09-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.93,46.67,"Saco 110,00 Libra",kg
+2022-09-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.93,46.67,"Saco 110,00 Libra",kg
+2022-10-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.77,35.00,"Saco 100,00 Libra",kg
+2022-10-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.94,47.00,"Saco 110,00 Libra",kg
+2022-10-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.78,35.67,"Saco 100,00 Libra",kg
+2022-10-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2022-10-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.80,36.67,"Saco 100,00 Libra",kg
+2022-10-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2022-10-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.91,41.67,"Saco 100,00 Libra",kg
+2022-10-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.98,49.33,"Saco 110,00 Libra",kg
+2022-11-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.30,65.00,"Saco 110,00 Libra",kg
+2022-11-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,45.00,"Saco 100,00 Libra",kg
+2022-11-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.30,65.00,"Saco 110,00 Libra",kg
+2022-11-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,45.00,"Saco 100,00 Libra",kg
+2022-11-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.30,65.00,"Saco 110,00 Libra",kg
+2022-12-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.78,35.67,"Saco 100,00 Libra",kg
+2022-12-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.03,51.67,"Saco 110,00 Libra",kg
+2022-12-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,36.00,"Saco 100,00 Libra",kg
+2022-12-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.06,53.33,"Saco 110,00 Libra",kg
+2022-12-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.93,46.67,"Saco 110,00 Libra",kg
+2022-12-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.93,46.67,"Saco 110,00 Libra",kg
+2022-12-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.02,51.33,"Saco 110,00 Libra",kg
+2023-01-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.01,51.00,"Saco 110,00 Libra",kg
+2023-01-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.93,46.67,"Saco 110,00 Libra",kg
+2023-01-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.13,56.67,"Saco 110,00 Libra",kg
+2023-01-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.03,51.67,"Saco 110,00 Libra",kg
+2023-02-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.06,53.33,"Saco 110,00 Libra",kg
+2023-02-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2023-02-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.73,33.33,"Saco 100,00 Libra",kg
+2023-02-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2023-02-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.73,36.67,"Saco 110,00 Libra",kg
+2023-03-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.72,36.33,"Saco 110,00 Libra",kg
+2023-03-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.76,38.33,"Saco 110,00 Libra",kg
+2023-03-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.68,34.00,"Saco 110,00 Libra",kg
+2023-03-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.66,33.33,"Saco 110,00 Libra",kg
+2023-03-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.55,27.67,"Saco 110,00 Libra",kg
+2023-04-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.76,38.33,"Saco 110,00 Libra",kg
+2023-04-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.48,24.33,"Saco 110,00 Libra",kg
+2023-04-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,22.33,"Saco 110,00 Libra",kg
+2023-04-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.41,20.67,"Saco 110,00 Libra",kg
+2023-05-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.41,20.67,"Saco 110,00 Libra",kg
+2023-05-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.41,20.67,"Saco 110,00 Libra",kg
+2023-05-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.42,21.00,"Saco 110,00 Libra",kg
+2023-05-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.46,23.33,"Saco 110,00 Libra",kg
+2023-06-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.47,23.67,"Saco 110,00 Libra",kg
+2023-06-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.50,25.00,"Saco 110,00 Libra",kg
+2023-06-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.50,25.33,"Saco 110,00 Libra",kg
+2023-06-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.50,25.00,"Saco 110,00 Libra",kg
+2023-06-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.43,21.67,"Saco 110,00 Libra",kg
+2023-07-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.40,20.00,"Saco 110,00 Libra",kg
+2023-07-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,22.00,"Saco 110,00 Libra",kg
+2023-07-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.33,15.33,"Saco 100,00 Libra",kg
+2023-07-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.45,22.67,"Saco 110,00 Libra",kg
+2023-07-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.33,15.00,"Saco 100,00 Libra",kg
+2023-07-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,22.00,"Saco 110,00 Libra",kg
+2023-08-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.33,15.00,"Saco 100,00 Libra",kg
+2023-08-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.43,21.67,"Saco 110,00 Libra",kg
+2023-08-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.30,13.67,"Saco 100,00 Libra",kg
+2023-08-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.40,20.00,"Saco 110,00 Libra",kg
+2023-08-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.30,15.33,"Saco 110,00 Libra",kg
+2023-08-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.50,25.00,"Saco 110,00 Libra",kg
+2023-08-31,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.46,23.00,"Saco 110,00 Libra",kg
+2023-09-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.36,16.67,"Saco 100,00 Libra",kg
+2023-09-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,22.33,"Saco 110,00 Libra",kg
+2023-09-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.33,15.00,"Saco 100,00 Libra",kg
+2023-09-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.38,19.33,"Saco 110,00 Libra",kg
+2023-09-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.54,27.00,"Saco 110,00 Libra",kg
+2023-09-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.38,17.33,"Saco 100,00 Libra",kg
+2023-09-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.57,28.67,"Saco 110,00 Libra",kg
+2023-10-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.34,15.67,"Saco 100,00 Libra",kg
+2023-10-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.46,23.00,"Saco 110,00 Libra",kg
+2023-10-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.33,15.00,"Saco 100,00 Libra",kg
+2023-10-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.48,24.33,"Saco 110,00 Libra",kg
+2023-10-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.42,19.33,"Saco 100,00 Libra",kg
+2023-10-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.50,25.00,"Saco 110,00 Libra",kg
+2023-10-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.41,18.67,"Saco 100,00 Libra",kg
+2023-10-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.49,24.67,"Saco 110,00 Libra",kg
+2023-11-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.50,23.00,"Saco 100,00 Libra",kg
+2023-11-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.63,31.67,"Saco 110,00 Libra",kg
+2023-11-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,20.00,"Saco 100,00 Libra",kg
+2023-11-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.53,26.67,"Saco 110,00 Libra",kg
+2023-11-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.42,19.33,"Saco 100,00 Libra",kg
+2023-11-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.50,25.33,"Saco 110,00 Libra",kg
+2023-11-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.51,23.33,"Saco 100,00 Libra",kg
+2023-11-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,29.67,"Saco 110,00 Libra",kg
+2023-12-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2023-12-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.73,36.67,"Saco 110,00 Libra",kg
+2023-12-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.72,36.00,"Saco 110,00 Libra",kg
+2023-12-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.74,37.33,"Saco 110,00 Libra",kg
+2024-01-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.77,38.67,"Saco 110,00 Libra",kg
+2024-01-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,30.00,"Saco 110,00 Libra",kg
+2024-01-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,29.67,"Saco 110,00 Libra",kg
+2024-01-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.58,29.33,"Saco 110,00 Libra",kg
+2024-02-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.64,32.33,"Saco 110,00 Libra",kg
+2024-02-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,30.00,"Saco 110,00 Libra",kg
+2024-02-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,30.00,"Saco 110,00 Libra",kg
+2024-02-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.47,23.67,"Saco 110,00 Libra",kg
+2024-02-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,22.33,"Saco 110,00 Libra",kg
+2024-03-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.48,24.33,"Saco 110,00 Libra",kg
+2024-03-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.43,21.67,"Saco 110,00 Libra",kg
+2024-03-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.44,22.00,"Saco 110,00 Libra",kg
+2024-04-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.39,19.67,"Saco 110,00 Libra",kg
+2024-04-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.33,16.67,"Saco 110,00 Libra",kg
+2024-04-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.35,18.00,"Saco 110,00 Libra",kg
+2024-05-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.32,16.33,"Saco 110,00 Libra",kg
+2024-05-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.35,18.00,"Saco 110,00 Libra",kg
+2024-05-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.33,17.00,"Saco 110,00 Libra",kg
+2024-05-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.38,19.33,"Saco 110,00 Libra",kg
+2024-05-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.38,19.33,"Saco 110,00 Libra",kg
+2024-06-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.46,23.00,"Saco 110,00 Libra",kg
+2024-06-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.40,20.00,"Saco 110,00 Libra",kg
+2024-07-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.42,21.33,"Saco 110,00 Libra",kg
+2024-07-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.38,19.33,"Saco 110,00 Libra",kg
+2024-07-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.37,18.67,"Saco 110,00 Libra",kg
+2024-07-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.33,16.67,"Saco 110,00 Libra",kg
+2024-08-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.37,18.67,"Saco 110,00 Libra",kg
+2024-08-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.40,20.33,"Saco 110,00 Libra",kg
+2024-08-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.45,22.67,"Saco 110,00 Libra",kg
+2024-08-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.48,24.33,"Saco 110,00 Libra",kg
+2024-08-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.42,21.33,"Saco 110,00 Libra",kg
+2024-09-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.53,26.67,"Saco 110,00 Libra",kg
+2024-09-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.53,26.67,"Saco 110,00 Libra",kg
+2024-10-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.54,27.33,"Saco 110,00 Libra",kg
+2024-10-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.57,28.67,"Saco 110,00 Libra",kg
+2024-10-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.58,29.33,"Saco 110,00 Libra",kg
+2024-11-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,30.00,"Saco 110,00 Libra",kg
+2024-11-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.62,31.33,"Saco 110,00 Libra",kg
+2024-11-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.58,29.33,"Saco 110,00 Libra",kg
+2024-11-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.61,30.67,"Saco 110,00 Libra",kg
+2024-12-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.62,31.00,"Saco 110,00 Libra",kg
+2024-12-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2024-12-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.76,38.33,"Saco 110,00 Libra",kg
+2024-12-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.78,39.33,"Saco 110,00 Libra",kg
+2025-01-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.83,41.67,"Saco 110,00 Libra",kg
+2025-01-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.96,48.33,"Saco 110,00 Libra",kg
+2025-01-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.13,56.67,"Saco 110,00 Libra",kg
+2025-01-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.02,51.33,"Saco 110,00 Libra",kg
+2025-02-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2025-02-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.90,45.00,"Saco 110,00 Libra",kg
+2025-02-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2025-02-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2025-03-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.10,55.00,"Saco 110,00 Libra",kg
+2025-03-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2025-03-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.90,45.00,"Saco 110,00 Libra",kg
+2025-03-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2025-04-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.96,48.00,"Saco 110,00 Libra",kg
+2025-04-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.90,45.00,"Saco 110,00 Libra",kg
+2025-04-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2025-05-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2025-05-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2025-05-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.90,45.00,"Saco 110,00 Libra",kg
+2025-05-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.96,48.00,"Saco 110,00 Libra",kg
+2025-05-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.10,55.00,"Saco 110,00 Libra",kg
+2025-06-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2025-06-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.59,30.00,"Saco 110,00 Libra",kg
+2025-06-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2025-06-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.77,38.67,"Saco 110,00 Libra",kg
+2025-07-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.82,41.33,"Saco 110,00 Libra",kg
+2025-07-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.98,49.33,"Saco 110,00 Libra",kg
+2025-07-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2025-07-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2025-07-31,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.98,49.33,"Saco 110,00 Libra",kg
+2025-08-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.70,35.00,"Saco 110,00 Libra",kg
+2025-08-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.68,34.33,"Saco 110,00 Libra",kg
+2025-08-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2025-08-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.10,55.00,"Saco 110,00 Libra",kg
+2025-09-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.40,70.00,"Saco 110,00 Libra",kg
+2025-09-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.30,65.00,"Saco 110,00 Libra",kg
+2025-09-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.40,70.00,"Saco 110,00 Libra",kg
+2025-09-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.20,60.00,"Saco 110,00 Libra",kg
+2025-10-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.30,65.00,"Saco 110,00 Libra",kg
+2025-10-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.30,65.00,"Saco 110,00 Libra",kg
+2025-10-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.26,63.33,"Saco 110,00 Libra",kg
+2025-10-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.26,63.33,"Saco 110,00 Libra",kg
+2025-10-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.60,80.00,"Saco 110,00 Libra",kg
+2025-11-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.63,81.67,"Saco 110,00 Libra",kg
+2025-11-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.69,85.00,"Saco 110,00 Libra",kg
+2025-11-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.30,65.00,"Saco 110,00 Libra",kg
+2025-11-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.60,80.00,"Saco 110,00 Libra",kg
+2025-12-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.60,80.00,"Saco 110,00 Libra",kg
+2025-12-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.43,72.00,"Saco 110,00 Libra",kg
+2025-12-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.46,73.33,"Saco 110,00 Libra",kg
+2026-01-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.30,65.00,"Saco 110,00 Libra",kg
+2026-01-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.10,55.00,"Saco 110,00 Libra",kg
+2026-01-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.23,61.67,"Saco 110,00 Libra",kg
+2026-01-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.66,83.33,"Saco 110,00 Libra",kg
+2026-02-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,2.00,100.00,"Saco 110,00 Libra",kg
+2026-02-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.20,60.00,"Saco 110,00 Libra",kg
+2026-02-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.26,63.33,"Saco 110,00 Libra",kg
+2026-02-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.33,66.67,"Saco 110,00 Libra",kg
+2026-03-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.20,60.33,"Saco 110,00 Libra",kg
+2026-03-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.26,63.33,"Saco 110,00 Libra",kg
+2026-03-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.23,61.67,"Saco 110,00 Libra",kg
+2026-03-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,1.26,63.33,"Saco 110,00 Libra",kg
+2026-04-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2026-04-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.86,43.33,"Saco 110,00 Libra",kg
+2026-04-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.88,44.00,"Saco 110,00 Libra",kg
+2026-04-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.96,48.33,"Saco 110,00 Libra",kg
+2026-05-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.87,43.67,"Saco 110,00 Libra",kg
+2026-05-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2026-05-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.72,36.00,"Saco 110,00 Libra",kg
+2026-05-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.78,39.33,"Saco 110,00 Libra",kg
+2026-06-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.73,36.67,"Saco 110,00 Libra",kg
+2026-06-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2026-06-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.76,38.33,"Saco 110,00 Libra",kg
+2026-06-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.93,46.67,"Saco 110,00 Libra",kg
+2026-07-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.79,40.00,"Saco 110,00 Libra",kg
+2026-07-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.86,43.33,"Saco 110,00 Libra",kg
+2026-09-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2026-10-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2026-10-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.99,50.00,"Saco 110,00 Libra",kg
+2026-10-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Machachi - Feria de Prod. Agricolas,0.96,48.33,"Saco 110,00 Libra",kg
+2021-01-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-01-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-01-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-01-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-01-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-01-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-01-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.66,30.00,"Saco 100,00 Libra",kg
+2021-01-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.66,30.00,"Saco 100,00 Libra",kg
+2021-02-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.61,28.00,"Saco 100,00 Libra",kg
+2021-02-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.61,28.00,"Saco 100,00 Libra",kg
+2021-02-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.66,30.00,"Saco 100,00 Libra",kg
+2021-02-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.88,40.00,"Saco 100,00 Libra",kg
+2021-02-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.88,40.00,"Saco 100,00 Libra",kg
+2021-02-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-02-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-03-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.57,26.00,"Saco 100,00 Libra",kg
+2021-03-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.58,26.67,"Saco 100,00 Libra",kg
+2021-03-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-03-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-03-16,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-03-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.33,"Saco 100,00 Libra",kg
+2021-03-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-03-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-03-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.81,37.00,"Saco 100,00 Libra",kg
+2021-04-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.79,36.33,"Saco 100,00 Libra",kg
+2021-04-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.58,26.67,"Saco 100,00 Libra",kg
+2021-04-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.63,28.67,"Saco 100,00 Libra",kg
+2021-04-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.73,33.33,"Saco 100,00 Libra",kg
+2021-04-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-04-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.84,38.33,"Saco 100,00 Libra",kg
+2021-04-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2021-04-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.57,26.00,"Saco 100,00 Libra",kg
+2021-05-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.63,28.67,"Saco 100,00 Libra",kg
+2021-05-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.61,28.00,"Saco 100,00 Libra",kg
+2021-05-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.63,28.67,"Saco 100,00 Libra",kg
+2021-05-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.64,29.33,"Saco 100,00 Libra",kg
+2021-05-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.64,29.33,"Saco 100,00 Libra",kg
+2021-05-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.66,30.00,"Saco 100,00 Libra",kg
+2021-05-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.73,33.33,"Saco 100,00 Libra",kg
+2021-05-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.75,34.33,"Saco 100,00 Libra",kg
+2021-06-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-06-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-06-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-06-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.79,36.00,"Saco 100,00 Libra",kg
+2021-06-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-06-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-06-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.84,38.33,"Saco 100,00 Libra",kg
+2021-06-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.85,38.67,"Saco 100,00 Libra",kg
+2021-06-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-07-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-07-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-07-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.33,"Saco 100,00 Libra",kg
+2021-07-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-07-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-07-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-07-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-07-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-07-31,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-08-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2021-08-07,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.68,31.33,"Saco 100,00 Libra",kg
+2021-08-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.73,33.33,"Saco 100,00 Libra",kg
+2021-08-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.67,30.67,"Saco 100,00 Libra",kg
+2021-08-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.66,30.00,"Saco 100,00 Libra",kg
+2021-08-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.68,31.33,"Saco 100,00 Libra",kg
+2021-08-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.68,31.33,"Saco 100,00 Libra",kg
+2021-08-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.73,33.33,"Saco 100,00 Libra",kg
+2021-08-31,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.80,36.67,"Saco 100,00 Libra",kg
+2021-11-20,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.96,44.00,"Saco 100,00 Libra",kg
+2021-11-23,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.97,44.33,"Saco 100,00 Libra",kg
+2021-11-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.10,50.00,"Saco 100,00 Libra",kg
+2021-12-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.10,50.00,"Saco 100,00 Libra",kg
+2021-12-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.10,50.00,"Saco 100,00 Libra",kg
+2022-01-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.10,50.00,"Saco 100,00 Libra",kg
+2022-02-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.10,50.00,"Saco 100,00 Libra",kg
+2022-02-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.01,46.00,"Saco 100,00 Libra",kg
+2022-02-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.06,48.33,"Saco 100,00 Libra",kg
+2022-02-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-03-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2022-03-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.91,41.67,"Saco 100,00 Libra",kg
+2022-03-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2022-03-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2022-03-18,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-03-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-03-25,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-03-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2022-04-01,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-04-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-04-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.84,38.33,"Saco 100,00 Libra",kg
+2022-04-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.88,40.00,"Saco 100,00 Libra",kg
+2022-04-19,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.95,43.33,"Saco 100,00 Libra",kg
+2022-04-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-04-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.95,43.33,"Saco 100,00 Libra",kg
+2022-04-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2022-05-03,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.88,40.00,"Saco 100,00 Libra",kg
+2022-05-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-05-10,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-05-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-05-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-05-24,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-05-27,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-05-31,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-07-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.10,50.00,"Saco 100,00 Libra",kg
+2022-07-08,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.88,40.00,"Saco 100,00 Libra",kg
+2022-07-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.88,40.00,"Saco 100,00 Libra",kg
+2022-07-15,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-07-22,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-07-26,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-07-29,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-08-02,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.84,38.33,"Saco 100,00 Libra",kg
+2022-08-05,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.86,39.33,"Saco 100,00 Libra",kg
+2022-08-30,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg
+2022-09-06,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2022-09-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2022-10-11,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2022-10-14,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.21,55.00,"Saco 100,00 Libra",kg
+2023-03-21,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.10,50.00,"Saco 100,00 Libra",kg
+2023-03-28,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2023-03-31,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.91,41.67,"Saco 100,00 Libra",kg
+2023-04-04,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,1.32,60.00,"Saco 100,00 Libra",kg
+2023-05-09,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2023-05-12,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.55,25.00,"Saco 100,00 Libra",kg
+2023-06-13,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.99,45.00,"Saco 100,00 Libra",kg
+2025-06-17,TUBÉRCULOS Y RAÍCES,180,Melloco Amarillo,Quito MMQ-EP,0.77,35.00,"Saco 100,00 Libra",kg

@@ -1,0 +1,45 @@
+name: Actualizar precios
+
+on:
+  schedule:
+    - cron: "0 17 * * *"   # todos los días a las 12:00 hora de Ecuador (17:00 UTC)
+  workflow_dispatch:        # permite ejecutarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-precios
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Descargar últimos 30 días del SIPA/MAG
+        run: python descargar_historico.py --dias 30
+
+      - name: Generar datos del dashboard
+        run: python generar_web.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos/historico/productos datos/historico/catalogo_productos.csv docs/data
+          if git diff --cached --quiet; then
+            echo "Sin datos nuevos"
+          else
+            git commit -m "Actualización de precios $(date -u +%Y-%m-%d)"
+            git push
+          fi

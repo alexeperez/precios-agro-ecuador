@@ -1,0 +1,11 @@
+__pycache__/
+*.tmp
+*.log
+*.out
+.claude/
+
+# El consolidado se puede regenerar desde datos/historico/productos y pesa ~23 MB
+datos/historico/precios*.csv
+
+# Salidas del script anterior (solo papa)
+datos/papa_super_chola_*.csv
