@@ -46,7 +46,7 @@ def main():
         ultima = max(s[-1][0] for s in series.values())
         ultima_global = max(ultima_global, ultima)
         mercados.update(series)
-        with (DESTINO / "p" / f"{pid}.json").open("w", encoding="utf-8") as f:
+        with (DESTINO / "p" / f"{pid}.json").open("w", encoding="utf-8", newline="\n") as f:
             json.dump({"id": pid, "nombre": nombre, "categoria": categoria,
                        "presentacion": filas[-1]["presentacion"],
                        "mercados": series}, f, ensure_ascii=False, separators=(",", ":"))
@@ -55,7 +55,7 @@ def main():
                           "ultima_fecha": ultima})
 
     productos.sort(key=lambda p: (p["categoria"], p["nombre"]))
-    with (DESTINO / "catalogo.json").open("w", encoding="utf-8") as f:
+    with (DESTINO / "catalogo.json").open("w", encoding="utf-8", newline="\n") as f:
         json.dump({"generado": date.today().isoformat(), "ultima_fecha": ultima_global,
                    "fuente": "SIPA - Ministerio de Agricultura y Ganadería del Ecuador",
                    "productos": productos, "mercados": sorted(mercados)},
