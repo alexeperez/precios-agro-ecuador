@@ -1,21 +1,21 @@
 {
- "generado": "2026-10-29",
- "ultima_fecha": "2026-10-29",
+ "generado": "2026-10-30",
+ "ultima_fecha": "2026-10-30",
  "fuente": "SIPA - Ministerio de Agricultura y Ganadería del Ecuador",
  "productos": [
   {
    "id": "82",
    "nombre": "Maíz Suave Choclo",
    "categoria": "CEREALES, Y DERIVADOS",
-   "registros": 6441,
-   "ultima_fecha": "2026-10-29"
+   "registros": 6443,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "274",
    "nombre": "Aguacate Fuerte",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 4777,
-   "ultima_fecha": "2026-10-27"
+   "registros": 4779,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "661",
@@ -35,14 +35,14 @@
    "id": "227",
    "nombre": "Banano (Guineo)",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 3389,
-   "ultima_fecha": "2026-10-29"
+   "registros": 3390,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "248",
    "nombre": "Frutilla",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 4924,
+   "registros": 4925,
    "ultima_fecha": "2026-10-29"
   },
   {
@@ -63,15 +63,15 @@
    "id": "235",
    "nombre": "Limón Sutil",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 6211,
-   "ultima_fecha": "2026-10-29"
+   "registros": 6215,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "236",
    "nombre": "Mandarina de la Costa",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 1820,
-   "ultima_fecha": "2026-10-28"
+   "registros": 1822,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "237",
@@ -84,8 +84,8 @@
    "id": "243",
    "nombre": "Manzana Importada",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 4380,
-   "ultima_fecha": "2026-10-29"
+   "registros": 4381,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "263",
@@ -98,8 +98,8 @@
    "id": "264",
    "nombre": "Melón",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 4448,
-   "ultima_fecha": "2026-10-29"
+   "registros": 4449,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "251",
@@ -112,8 +112,8 @@
    "id": "239",
    "nombre": "Naranja",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 3436,
-   "ultima_fecha": "2026-10-29"
+   "registros": 3439,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "266",
@@ -154,8 +154,8 @@
    "id": "268",
    "nombre": "Papaya Nacional",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 1627,
-   "ultima_fecha": "2026-10-29"
+   "registros": 1628,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "270",
@@ -168,50 +168,50 @@
    "id": "229",
    "nombre": "Plátano Barraganete Maduro",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 2767,
-   "ultima_fecha": "2026-10-29"
+   "registros": 2768,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "230",
    "nombre": "Plátano Barraganete Verde",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 3342,
-   "ultima_fecha": "2026-10-29"
+   "registros": 3343,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "231",
    "nombre": "Plátano Dominico Maduro",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 2568,
-   "ultima_fecha": "2026-10-29"
+   "registros": 2569,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "232",
    "nombre": "Plátano Dominico Verde",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 3331,
-   "ultima_fecha": "2026-10-29"
+   "registros": 3332,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "271",
    "nombre": "Sandía Nacional",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 3899,
-   "ultima_fecha": "2026-10-29"
+   "registros": 3902,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "480",
    "nombre": "Sandía Peruana",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 753,
-   "ultima_fecha": "2026-10-29"
+   "registros": 754,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "283",
    "nombre": "Tomate de Árbol",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 6025,
-   "ultima_fecha": "2026-10-28"
+   "registros": 6026,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "253",
@@ -238,35 +238,35 @@
    "id": "132",
    "nombre": "Ajo Bulbo Seco",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4413,
-   "ultima_fecha": "2026-10-29"
+   "registros": 4415,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "138",
    "nombre": "Brócoli",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4705,
-   "ultima_fecha": "2026-10-29"
+   "registros": 4708,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "133",
    "nombre": "Cebolla Blanca en Rama",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 6256,
-   "ultima_fecha": "2026-10-29"
+   "registros": 6259,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "444",
    "nombre": "Cebolla Colorada Nacional Húmeda",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 3124,
-   "ultima_fecha": "2026-10-29"
+   "registros": 3125,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "134",
    "nombre": "Cebolla Colorada Nacional Seca",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 3929,
+   "registros": 3930,
    "ultima_fecha": "2026-10-29"
   },
   {
@@ -280,43 +280,43 @@
    "id": "135",
    "nombre": "Cebolla Perla Nacional Seca",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 2822,
+   "registros": 2823,
    "ultima_fecha": "2026-10-29"
   },
   {
    "id": "144",
    "nombre": "Col",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 6738,
-   "ultima_fecha": "2026-10-29"
+   "registros": 6741,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "149",
    "nombre": "Lechuga",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 5862,
-   "ultima_fecha": "2026-10-29"
+   "registros": 5864,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "125",
    "nombre": "Pepinillo Pepino",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 5544,
-   "ultima_fecha": "2026-10-29"
+   "registros": 5547,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "126",
    "nombre": "Pimiento",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 6478,
-   "ultima_fecha": "2026-10-29"
+   "registros": 6479,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "154",
    "nombre": "Remolacha",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4434,
-   "ultima_fecha": "2026-10-29"
+   "registros": 4437,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "153",
@@ -329,15 +329,15 @@
    "id": "130",
    "nombre": "Tomate Riñón de Invernadero",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 7347,
-   "ultima_fecha": "2026-10-29"
+   "registros": 7351,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "155",
    "nombre": "Zanahoria Amarilla",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 8330,
-   "ultima_fecha": "2026-10-29"
+   "registros": 8334,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "100",
@@ -350,8 +350,8 @@
    "id": "606",
    "nombre": "Arveja Tierna en Vaina-Quantum",
    "categoria": "LEGUMINOSAS DE GRANO",
-   "registros": 5214,
-   "ultima_fecha": "2026-10-29"
+   "registros": 5216,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "637",
@@ -392,8 +392,8 @@
    "id": "112",
    "nombre": "Haba Tierna en Vaina",
    "categoria": "LEGUMINOSAS DE GRANO",
-   "registros": 7094,
-   "ultima_fecha": "2026-10-29"
+   "registros": 7095,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "180",
@@ -476,22 +476,22 @@
    "id": "176",
    "nombre": "Papa Súper Chola",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 7483,
-   "ultima_fecha": "2026-10-29"
+   "registros": 7485,
+   "ultima_fecha": "2026-10-30"
   },
   {
    "id": "177",
    "nombre": "Papa Única",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 3942,
+   "registros": 3943,
    "ultima_fecha": "2026-10-29"
   },
   {
    "id": "186",
    "nombre": "Yuca",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 4750,
-   "ultima_fecha": "2026-10-29"
+   "registros": 4751,
+   "ultima_fecha": "2026-10-30"
   }
  ],
  "mercados": [
