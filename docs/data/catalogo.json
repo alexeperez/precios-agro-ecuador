@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-02",
- "ultima_fecha": "2026-10-30",
+ "generado": "2026-11-03",
+ "ultima_fecha": "2026-11-02",
  "fuente": "SIPA - Ministerio de Agricultura y Ganadería del Ecuador",
  "productos": [
   {
@@ -245,8 +245,8 @@
    "id": "138",
    "nombre": "Brócoli",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4710,
-   "ultima_fecha": "2026-10-30"
+   "registros": 4711,
+   "ultima_fecha": "2026-11-02"
   },
   {
    "id": "133",
@@ -266,8 +266,8 @@
    "id": "134",
    "nombre": "Cebolla Colorada Nacional Seca",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 3931,
-   "ultima_fecha": "2026-10-30"
+   "registros": 3932,
+   "ultima_fecha": "2026-11-02"
   },
   {
    "id": "445",
@@ -280,8 +280,8 @@
    "id": "135",
    "nombre": "Cebolla Perla Nacional Seca",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 2824,
-   "ultima_fecha": "2026-10-30"
+   "registros": 2825,
+   "ultima_fecha": "2026-11-02"
   },
   {
    "id": "144",
@@ -294,8 +294,8 @@
    "id": "149",
    "nombre": "Lechuga",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 5865,
-   "ultima_fecha": "2026-10-30"
+   "registros": 5866,
+   "ultima_fecha": "2026-11-02"
   },
   {
    "id": "125",
@@ -329,8 +329,8 @@
    "id": "130",
    "nombre": "Tomate Riñón de Invernadero",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 7351,
-   "ultima_fecha": "2026-10-30"
+   "registros": 7352,
+   "ultima_fecha": "2026-11-02"
   },
   {
    "id": "155",
@@ -350,8 +350,8 @@
    "id": "606",
    "nombre": "Arveja Tierna en Vaina-Quantum",
    "categoria": "LEGUMINOSAS DE GRANO",
-   "registros": 5218,
-   "ultima_fecha": "2026-10-30"
+   "registros": 5219,
+   "ultima_fecha": "2026-11-02"
   },
   {
    "id": "637",
