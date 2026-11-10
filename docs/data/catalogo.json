@@ -1,13 +1,13 @@
 {
- "generado": "2026-11-08",
- "ultima_fecha": "2026-11-06",
+ "generado": "2026-11-10",
+ "ultima_fecha": "2026-11-09",
  "fuente": "SIPA - Ministerio de Agricultura y Ganadería del Ecuador",
  "productos": [
   {
    "id": "82",
    "nombre": "Maíz Suave Choclo",
    "categoria": "CEREALES, Y DERIVADOS",
-   "registros": 6449,
+   "registros": 6450,
    "ultima_fecha": "2026-11-06"
   },
   {
@@ -63,15 +63,15 @@
    "id": "235",
    "nombre": "Limón Sutil",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 6227,
-   "ultima_fecha": "2026-11-06"
+   "registros": 6229,
+   "ultima_fecha": "2026-11-09"
   },
   {
    "id": "236",
    "nombre": "Mandarina de la Costa",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 1828,
-   "ultima_fecha": "2026-11-06"
+   "registros": 1830,
+   "ultima_fecha": "2026-11-09"
   },
   {
    "id": "237",
@@ -91,15 +91,15 @@
    "id": "263",
    "nombre": "Maracuyá",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 6576,
+   "registros": 6577,
    "ultima_fecha": "2026-11-06"
   },
   {
    "id": "264",
    "nombre": "Melón",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 4454,
-   "ultima_fecha": "2026-11-05"
+   "registros": 4455,
+   "ultima_fecha": "2026-11-06"
   },
   {
    "id": "251",
@@ -112,15 +112,15 @@
    "id": "239",
    "nombre": "Naranja",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 3450,
-   "ultima_fecha": "2026-11-06"
+   "registros": 3452,
+   "ultima_fecha": "2026-11-09"
   },
   {
    "id": "266",
    "nombre": "Naranjilla Híbrida",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 5456,
-   "ultima_fecha": "2026-11-06"
+   "registros": 5458,
+   "ultima_fecha": "2026-11-09"
   },
   {
    "id": "533",
@@ -196,8 +196,8 @@
    "id": "271",
    "nombre": "Sandía Nacional",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 3909,
-   "ultima_fecha": "2026-11-06"
+   "registros": 3910,
+   "ultima_fecha": "2026-11-09"
   },
   {
    "id": "480",
@@ -245,21 +245,21 @@
    "id": "138",
    "nombre": "Brócoli",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4720,
+   "registros": 4721,
    "ultima_fecha": "2026-11-06"
   },
   {
    "id": "133",
    "nombre": "Cebolla Blanca en Rama",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 6268,
+   "registros": 6269,
    "ultima_fecha": "2026-11-06"
   },
   {
    "id": "444",
    "nombre": "Cebolla Colorada Nacional Húmeda",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 3129,
+   "registros": 3130,
    "ultima_fecha": "2026-11-06"
   },
   {
@@ -273,8 +273,8 @@
    "id": "445",
    "nombre": "Cebolla Colorada Peruana Seca",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 2903,
-   "ultima_fecha": "2026-11-05"
+   "registros": 2904,
+   "ultima_fecha": "2026-11-06"
   },
   {
    "id": "135",
@@ -287,8 +287,8 @@
    "id": "144",
    "nombre": "Col",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 6754,
-   "ultima_fecha": "2026-11-06"
+   "registros": 6756,
+   "ultima_fecha": "2026-11-09"
   },
   {
    "id": "149",
@@ -301,8 +301,8 @@
    "id": "125",
    "nombre": "Pepinillo Pepino",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 5552,
-   "ultima_fecha": "2026-11-06"
+   "registros": 5553,
+   "ultima_fecha": "2026-11-09"
   },
   {
    "id": "126",
@@ -315,15 +315,15 @@
    "id": "154",
    "nombre": "Remolacha",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4447,
-   "ultima_fecha": "2026-11-06"
+   "registros": 4449,
+   "ultima_fecha": "2026-11-09"
   },
   {
    "id": "153",
    "nombre": "Rábano",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 9,
-   "ultima_fecha": "2026-11-06"
+   "registros": 10,
+   "ultima_fecha": "2026-11-09"
   },
   {
    "id": "130",
@@ -350,7 +350,7 @@
    "id": "606",
    "nombre": "Arveja Tierna en Vaina-Quantum",
    "categoria": "LEGUMINOSAS DE GRANO",
-   "registros": 5227,
+   "registros": 5228,
    "ultima_fecha": "2026-11-06"
   },
   {
@@ -462,15 +462,15 @@
    "id": "636",
    "nombre": "Papa Puzda",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 809,
-   "ultima_fecha": "2026-11-04"
+   "registros": 810,
+   "ultima_fecha": "2026-11-06"
   },
   {
    "id": "171",
    "nombre": "Papa Rosita",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 1456,
-   "ultima_fecha": "2026-11-04"
+   "registros": 1457,
+   "ultima_fecha": "2026-11-06"
   },
   {
    "id": "176",
@@ -490,8 +490,8 @@
    "id": "186",
    "nombre": "Yuca",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 4756,
-   "ultima_fecha": "2026-11-06"
+   "registros": 4757,
+   "ultima_fecha": "2026-11-09"
   }
  ],
  "mercados": [
