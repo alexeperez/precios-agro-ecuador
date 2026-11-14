@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13",
+ "generado": "2026-11-14",
  "ultima_fecha": "2026-11-13",
  "fuente": "SIPA - Ministerio de Agricultura y Ganadería del Ecuador",
  "productos": [
@@ -7,7 +7,7 @@
    "id": "82",
    "nombre": "Maíz Suave Choclo",
    "categoria": "CEREALES, Y DERIVADOS",
-   "registros": 6454,
+   "registros": 6455,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -63,14 +63,14 @@
    "id": "235",
    "nombre": "Limón Sutil",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 6244,
+   "registros": 6245,
    "ultima_fecha": "2026-11-13"
   },
   {
    "id": "236",
    "nombre": "Mandarina de la Costa",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 1834,
+   "registros": 1835,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -91,14 +91,14 @@
    "id": "263",
    "nombre": "Maracuyá",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 6579,
+   "registros": 6580,
    "ultima_fecha": "2026-11-13"
   },
   {
    "id": "264",
    "nombre": "Melón",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 4463,
+   "registros": 4464,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -119,7 +119,7 @@
    "id": "266",
    "nombre": "Naranjilla Híbrida",
    "categoria": "FRUTAS FRESCAS",
-   "registros": 5461,
+   "registros": 5462,
    "ultima_fecha": "2026-11-12"
   },
   {
@@ -245,7 +245,7 @@
    "id": "138",
    "nombre": "Brócoli",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4725,
+   "registros": 4726,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -259,7 +259,7 @@
    "id": "444",
    "nombre": "Cebolla Colorada Nacional Húmeda",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 3135,
+   "registros": 3136,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -273,7 +273,7 @@
    "id": "445",
    "nombre": "Cebolla Colorada Peruana Seca",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 2907,
+   "registros": 2908,
    "ultima_fecha": "2026-11-12"
   },
   {
@@ -287,7 +287,7 @@
    "id": "144",
    "nombre": "Col",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 6772,
+   "registros": 6773,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -315,7 +315,7 @@
    "id": "154",
    "nombre": "Remolacha",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4459,
+   "registros": 4460,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -350,7 +350,7 @@
    "id": "606",
    "nombre": "Arveja Tierna en Vaina-Quantum",
    "categoria": "LEGUMINOSAS DE GRANO",
-   "registros": 5237,
+   "registros": 5238,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -462,15 +462,15 @@
    "id": "636",
    "nombre": "Papa Puzda",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 811,
-   "ultima_fecha": "2026-11-09"
+   "registros": 812,
+   "ultima_fecha": "2026-11-11"
   },
   {
    "id": "171",
    "nombre": "Papa Rosita",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 1458,
-   "ultima_fecha": "2026-11-09"
+   "registros": 1459,
+   "ultima_fecha": "2026-11-11"
   },
   {
    "id": "176",
