@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14",
+ "generado": "2026-11-15",
  "ultima_fecha": "2026-11-13",
  "fuente": "SIPA - Ministerio de Agricultura y Ganadería del Ecuador",
  "productos": [
@@ -245,7 +245,7 @@
    "id": "138",
    "nombre": "Brócoli",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4726,
+   "registros": 4727,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -259,7 +259,7 @@
    "id": "444",
    "nombre": "Cebolla Colorada Nacional Húmeda",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 3136,
+   "registros": 3137,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -273,8 +273,8 @@
    "id": "445",
    "nombre": "Cebolla Colorada Peruana Seca",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 2908,
-   "ultima_fecha": "2026-11-12"
+   "registros": 2909,
+   "ultima_fecha": "2026-11-13"
   },
   {
    "id": "135",
@@ -287,7 +287,7 @@
    "id": "144",
    "nombre": "Col",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 6773,
+   "registros": 6774,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -315,7 +315,7 @@
    "id": "154",
    "nombre": "Remolacha",
    "categoria": "HORTALIZAS - PRODUCTO FRESCO",
-   "registros": 4460,
+   "registros": 4461,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -350,7 +350,7 @@
    "id": "606",
    "nombre": "Arveja Tierna en Vaina-Quantum",
    "categoria": "LEGUMINOSAS DE GRANO",
-   "registros": 5238,
+   "registros": 5239,
    "ultima_fecha": "2026-11-13"
   },
   {
@@ -462,15 +462,15 @@
    "id": "636",
    "nombre": "Papa Puzda",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 812,
-   "ultima_fecha": "2026-11-11"
+   "registros": 813,
+   "ultima_fecha": "2026-11-13"
   },
   {
    "id": "171",
    "nombre": "Papa Rosita",
    "categoria": "TUBÉRCULOS Y RAÍCES",
-   "registros": 1459,
-   "ultima_fecha": "2026-11-11"
+   "registros": 1460,
+   "ultima_fecha": "2026-11-13"
   },
   {
    "id": "176",
